@@ -1,0 +1,8 @@
+pydantic
+fastapi
+vaderSentiment
+openai==0.28
+streamlit
+numpy
+scikit-learn
+joblib
