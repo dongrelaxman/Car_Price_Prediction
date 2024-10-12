@@ -11,7 +11,8 @@ Welcome to the Car Price Prediction App! This project leverages a machine learni
 
 # Demo
 ## Prediction Interface:
-![alt text](<Screenshot 2024-10-05 100049.png>)
+![Screenshot 2024-10-05 100049](https://github.com/user-attachments/assets/07722220-8bf3-4761-bb8a-35fdbd32823c)
+
 
 Installation and Setup
 To run this project locally, follow these steps:
