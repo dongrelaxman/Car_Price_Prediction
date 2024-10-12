@@ -18,20 +18,28 @@ Installation and Setup
 To run this project locally, follow these steps:
 
 Clone the repository:
-`git clone https://github.com/your-username/car-price-prediction-app.git`
-`cd car-price-prediction-app`
+```bash
+git clone https://github.com/your-username/car-price-prediction-app.git
+```
+```bash
+cd car-price-prediction-app
+```
 
 **Install dependencies:** Ensure you have Python 3.7+ installed. 
 
 **Install required Python packages using:**
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 Prepare the machine learning model: If you don't have a pre-trained model, train one by running your model training script or download the pre-trained model car_price_model1.pkl from the repository.
 
 ## Run the Streamlit App: 
 Start the Streamlit app with the following command:
-`streamlit run app.py`
+```bash
+streamlit run app.py
+```
 Visit the app: Open the app in your browser at `http://localhost:8501.`
 
 ## How to Use
@@ -53,9 +61,10 @@ We welcome contributions to this project! Here’s how you can contribute:
 
 Fork the repository.
 Clone your fork:
-bash
-Copy code
+
+```bash
 git clone https://github.com/your-username/car-price-prediction-app.git
+```
 Make your changes.
 Submit a pull request and we’ll review your changes!
 License
